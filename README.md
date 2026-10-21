@@ -1,20 +1,20 @@
-# Hi 👋，我是王霄涤
-## 🧑‍💻 Tech Stack
-Python | PyTorch | LangGraph | RAG | vLLM | Unsloth | Elasticsearch | Docker
+# Hi 👋，我是王小帝
+
+大模型应用开发 | RAG | LangGraph | PyTorch
+求职意向：大模型应用工程师
 
 ## 📌 项目仓库
-> 后续把你项目仓库链接填在这里
-- [📚 AI全栈学习笔记](https://github.com/wu520520/ai-learning-notes)：Python/Web/ML/CV/LLM全阶段知识点总结
-- [RAG知识库问答系统]()：基于LangChain+ES的私有文档检索问答
-- [LLM SFT微调工具]()：Unsloth实现大模型轻量化微调
-- [AI Agent任务调度Demo]()：多工具调用Agent原型
 
+- [🍎 社区生鲜配送管理系统](https://github.com/wu520520/fresh-delivery-system)：Python + MySQL 实战，商品/配送员/订单三模块，三表外键关联 + 事务处理 + 防SQL注入
+- [📚 AI全栈学习笔记](https://github.com/wu520520/ai-learning-notes)：Python/Web/ML/CV/LLM 全阶段知识点总结
 
-## 📊 GitHub Stats
+> 更多项目持续更新中...
 
+## 🧑‍💻 Tech Stack
 
+Python | PyTorch | LangChain | LangGraph | RAG | vLLM | Unsloth | MySQL | FastAPI
 
 ## 📬 Contact
-邮箱：2457970162@qq.com
-求职意向：大模型应用工程师
+
+📧 2457970162@qq.com
 📍 河北
