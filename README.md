@@ -1,14 +1,18 @@
 # 👋 Hi，我是王霄涤
 
 **大模型应用开发工程师（求职中）**
-专注 **LLM / RAG / Agent / AI 应用开发**，熟悉大模型微调（LoRA、DPO）与推理部署（vLLM）
+专注 **LLM / RAG / Agent / AI 应用开发**，熟悉大模型微调（SFT · LoRA · QLoRA · DPO）与推理部署（vLLM · Unsloth）
 
 - 🎯 求职意向：大模型应用工程师
-- 🛠 常用技术：Python · PyTorch · LangChain · LangGraph · vLLM
+- 🛠 常用技术：Python · PyTorch · LangChain · LangGraph · vLLM · Unsloth
 
 ---
 
 ## 🚩 项目仓库
+
+### 🚀 LLM 大模型应用与微调项目集
+RAG 检索增强（医疗问答）· Agent 智能体 · LangChain/LangGraph · SFT/DPO/LoRA/QLoRA 微调
+[🔗 仓库地址](https://github.com/wu520520/llm-practice-projects)
 
 ### 🧠 NLP 自然语言处理实战
 BERT / LSTM / RNN / Transformer 文本分类与中英翻译，PyTorch 实现
@@ -46,6 +50,7 @@ Python / Web / ML / CV / LLM 全阶段知识点总结
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E)
 ![XGBoost](https://img.shields.io/badge/XGBoost-6F4C9E)
+![Transformers](https://img.shields.io/badge/Transformers-FFB300)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D9BB4)
 ![RAG](https://img.shields.io/badge/RAG-FF7A00)
